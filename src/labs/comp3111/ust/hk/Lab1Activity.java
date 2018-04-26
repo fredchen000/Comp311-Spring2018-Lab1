@@ -1,5 +1,5 @@
 package labs.comp3111.ust.hk;
-// test test
+// test test testt tets
 public class Lab1Activity {
 	public static void findMin(int[] arr) {
 		int min = arr[0];
